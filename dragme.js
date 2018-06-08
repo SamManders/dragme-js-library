@@ -51,9 +51,3 @@ window.onload = function() {
 
 
 
-
-
-$('.floor-box').click(function(e){
-    $('.floor-box.floor-active').removeClass('floor-active');
-    $(this).addClass('floor-active');
-});
