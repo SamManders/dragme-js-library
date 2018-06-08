@@ -5,3 +5,6 @@ How to use the library:
 2. Give the element you want to drag the class 'dragme'
 3. Make sure the position of the element is set to 'position: relative;'
 4. Enjoy dragging!
+
+
+Credits: Shrinath, StackOverflow
