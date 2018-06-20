@@ -1,7 +1,7 @@
 
 
-function DragMe (){
-
+(function () {
+	
     
     
     function startDrag(e) {
@@ -44,5 +44,5 @@ function DragMe (){
 
 
 
-}
+}());
 
